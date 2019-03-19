@@ -1,5 +1,3 @@
-# nodenv
-
 # nodenv.el
 
 nodenv.el ia an Emacs extension which integrates the editor with [nodenv](https://github.com/nodenv/nodenv "nodenv/nodenv").
