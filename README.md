@@ -9,7 +9,7 @@ Disclaimer
 This repository is a fork of the [rbenv.el](https://github.com/senny/rbenv.el
 "senny/rbeny.el") project. Please don't ask me anything, I do not even know
 Emacs Lisp well enough to create something new. I only heve edited original
-rbeny.el replacing all mentions of the Ruby and Rbenv with Node and Nodenv.
+rbeny.el and README replacing all mentions of the Ruby and Rbenv with Node and Nodenv.
 The main purpose of this repository is my personal using and for me it works well.
 
 
